@@ -1,0 +1,163 @@
+
+ECONOMÍA DE EMPRESA. 2º BACHILLERATO.
+TEMA 1: LA EMPRESA Y SU MARCO EXTERNO
+
+1.1. QUÉ ES UNA EMPRESA.
+
+Definición del concepto de empresa. La empresa es un conjunto de ELEMENTOS que cumple una serie de FUNCIONES en la economía de la sociedad, entre las que destaca llevar a cabo CICLOS DE EXPLOTACIÓN y asumir RIESGOS, para conseguir unos OBJETIVOS.
+
+En los siguientes apartados se explican con profundidad los conceptos de esta definición destacados en letras mayúsculas.
+
+1.2. ELEMENTOS (COMPONENTES) DE LA EMPRESA.
+
+Los elementos que conforman una empresa y que afectan al desarrollo de su actividad son los siguientes:
+
+a) Elementos internos a la empresa:
+Son los recursos (factores de producción) (inputs) con los que cuenta la empresa para llevar a cabo su actividad productiva (ciclo de explotación o proceso de producción). Los podemos clasificar en:
+    • Elementos humanos.  Son las personas físicas o jurídicas (sociedades) que tienen una vinculación directa con la empresa. Hablamos de:
+        ◦ Los propietarios del capital, llamados socios o accionistas.
+        ◦ Los trabajadores, a distintos niveles, ya sean empleados, administradores, directivos, etc.
+    • Elementos reales. Son los elemenos materiales (o tangibles) y los elementos inmateriales (intangibles) con los que cuenta. Podemos dividirlos en dos partes:
+        ◦ Elementos tangibles o materiales. Podemos dividirlos en:
+            ▪ Fijos. Son bienes fijos que se utilizan en el proceso de producción de otros bienes pero no pasan a formar parte de estos. Debemos pensar principalmente en:
+                • Máquinas. Ya sean máquinas propiamente dichas, elementos de transporte u ordenadores.
+                • Herramientas. Un martillo.
+                • Locales. Las puertas y muros que los conforman.
+            ▪ Corrientes (o circulantes). Compuesto de los bienes perecederos, llamados así porque desaparecen en el proceso de producción al formar parte del bien que se está produciendo. Debemos pensar en elementos materiales (o tangibles) tales como:
+                • Las materias primas, como el hierro, la madera, etc.
+                • Los productos semielaborados, como los tornillos, los plásticos, los combustibles, etc.
+                • Otros productos finales como el material de oficina (folios, bolígrafos, etc).
+        ◦ Elementos intangibles o inmateriales. Debemos pensar principalmente en:
+                • Software (programas informáticos).
+                • Derechos de propiedad, como las patentes, la marca de la empresa y los derechos de imagen.
+    • Elementos financieros. Es el dinero necesario para contratar los distintos elementos humanos y reales que necesita la empresa para llevar a cabo su proceso de producción. Este dinero puede venir del interior de la empresa, por ejemplo por sus ahorros acumulados (reservas) o del exterior de la empresa, por ejemplo de préstamos bancarios. 
+    • Elementos organizativos. Es un conjunto de relaciones de autoridad, coordinación y comunicación que definen la actividad que va a llevar la empresa. La organización la define el empresario, que es el que lleva la Dirección de la empresa.
+
+b) Elementos externos a la empresa: el entorno. El entorno son los factores externos que influyen en el funcionamiento de la empresa. Dentro del entorno, diferenciamos dos tipos:
+    • Entorno general o macroentorno. Son los factores externos no controlados por la empresa. Ejemplos: aumenta el tipo de interés de los préstamos que tiene que pagar la empresa, una subida de impuestos por parte del Gobierno a las empresas del sector.
+    • Entorno específico o microentorno. Son los factores externos que sí puede controlar la empresa de algún modo. Ejemplo: un aumento del precio que paga por los productos comprados a los proveedores (puede cambiar de proveedor), la cantidad de compras que hacen los clientes de la empresa (puede bajar el precio para aumentar esa cantidad).
+
+1.3. OBJETIVOS DE LA EMPRESA.
+
+La empresa, como organización que es, tiene unos objetivos. Pero hay que entender que la empresa está compuesta de grupos de personas con roles distintos dentro de ella y que tienen objetivos distintos, incluso contrarios, por lo que existe un conflicto de objetivos. Pero además se relaciona con colectivos externos a la empresa que también tienen objetivos distintos.
+
+1.3.1 OBJETIVOS PRINCIPALES DE LA EMPRESA COMO ORGANIZACIÓN.
+
+Los objetivos principales de una empresa, como organización que es, son:
+
+a) La maximización del beneficio. Es el objetivo principal de una empresa. El beneficio es igual a los ingresos menos los costes, por lo que la empresa pretenderá conseguir los máximos ingresos posibles y a la vez los mínimos costes. 
+Para conseguirlo, la empresa utiliza herramientas de análisis estratégico como la cadena de valor. 
+
+La cadena de valor es una herramienta de análisis de la actividad de una empresa que consiste en descomponer su actividad en distintas subactividades, con el objetivo de identificar cuáles son fuentes de ventaja competitiva (se hacen mejor que el resto de las empresas de la competencia) y generan mayor valor añadido (márgenes de beneficio) y cuáles no. 
+Es decir, con otras palabras, con la cadena de valor se mira qué actividades son más rentables y se hacen mejor y cuáles se hacen peor, en relación a las empresas de la competencia. 
+Una vez analizada la actividad de la empresas, se eliminan los costes innecesarios y se organizan las actividades de la empresa de la mejor forma posible. Una de las formas de reducir los costes que puede traer alguna subactividad es subcontratar esta subactividad a otras empresas externas. A esto se le llama externalizar o hacer outsourcing.
+
+Las subactividades que se suelen analizar son:
+    • Actividades primarias: la producción, la distribución, la comercialización y el servicio postventa de los bienes y servicios
+    • Actividades de soporte a las primarias: la administración y organización de los recursos humanos (RRHH), el desarrollo tecnológico, la contabilidad y las finanzas, el control de la calidad.
+
+b) El crecimiento de la empresa. Que se traduce en cualquiera de los siguientes aspectos:
+1º El aumento de la cifra de producción y ventas.
+2º El aumento del activo o patrimonio que posee.
+Este crecimiento puede ser interno o ser externo a través de la adquisición de otras empresas. (Este apartado se ve con mayor profunidad en próximas unidades)
+c) Estabilidad y adaptabilidad al medio. El mundo actual es muy dinámico y las necesidades de las personas son cambiantes. De ese modo, las empresas deben ser flexibles en sus formas de trabajar y adaptarse a su entorno para no correr el riesgo de desaparecer. 
+d) Cumplir finalidades sociales. Las empresas deberían tener Responsabilidad Social Corporativa, es decir, deberían preocuparse por el entorno en el que se desarrollan más allá de la obtención de beneficios, intentando reducir al máximo los costes sociales y aumentar el máximo los beneficios sociales.
+Los costes sociales (también llamados externalidades negativas) son los perjuicios económicos sobre los agentes económicos de su entorno que crean las empresas cuando realizan su actividad productiva. Se diferencian de los costes privados, que son los perjuicios económicos que se ocasiona la empresa a si misma cuando realiza su actividad.
+Algunos ejemplos de costes sociales generados son:
+    • La contaminación, por ejemplo con los humos de las chimeneas de las empresas.
+    • La tala excesiva de árboles para fabricar muebles hace peligrar el futuro del oxigeno en nuestro planeta.
+    • Las emisiones de ruido que generan las discotecas son la causa del insomnio de muchos vecinos durante la noche. 
+Las empresas también pueden generar beneficios sociales (externalidades positivas) cuando proporcionan un bienestar adicional a otros agentes económicos de su entorno, de forma indirecta, cuando realizan su actividad productiva. Se diferencian de los beneficios privados, que son aquellos que la empresa obtiene para ella misma gracias a su actividad.
+Algunos ejemplos de beneficios sociales generados son:
+    • Los avances tecnológicos y descubrimientos científicos como consecuencia de los gastos en I+D+i de las empresas. Por ejemplo: la empresa IBM fue la que creo el primer ordenador personal y toda la sociedad se ha beneficiado de este descubrimiento.
+    • La formación a los trabajadores de una empresa repercutirá en el resto de la sociedad, al gozar ésta de una mano de obra mejor cualificada.
+    • La instalación de paneles solares y el uso de las energías renovables en las viviendas particulares, lo cual genera una menor contaminación.
+
+Los aspectos en los que debe ejercer su responsabilidad social son:
+    • Respecto al medio ambiente.
+      Las empresas deben ser responable y hacerse cargo de los costes sociales que provocan al medio ambiente. Provocan problemas como:  la contaminación del aire y del agua, especulación del suelo, concentración industrial y urbana, sobreexplotación de los recursos naturales, etc.
+    • Respecto a sus trabajadores. 
+      La empresa debe contribuir al desarrollo de sus trabajadores respetando y promoviendo los derechos humanos fundamentales. Con medidas como: un horario de trabajo no excesivo que favorezca la conciliación de la vida familiar y laboral de sus trabajadores, un entorno de trabajo saludable y seguro, una remuneración adecuada, etc.
+    • Respecto a la ética de sus negocios.
+      La empresa debería ser honrada en su gestión y en el servicio y calidad de los productos que ofrece, respetando las leyes y cumpliendo sus compromisos con clientes, proveedores y con la Administración Pública en sus obligaciones fiscales.
+      
+1.3.2. OBJETIVOS DE LOS COLECTIVOS INTERNOS DE LA EMPRESA Y EXTERNOS A LA EMPRESA. EL CONFLICTO DE OBJETIVOS.
+
+La empresa está compuesta internamente de colectivos de personas y a su vez está relacionada externamente con otros colectivos:
+    • Los colectivos internos de la empresa. Cada colectivo tiene unos objetivos distintos:
+    • Los propietarios: socios y accionistas. Quieren que la empresa obtenga los máximos beneficios posibles para que a su vez reparta grandes beneficios a sus socios por las participaciones que tienen de la propiedad (los llamado dividendos). También quieren que aumente el valor de la empresa para que sus participaciones de propiedad aumenten de valor y puedan venderlas si desean a un precio alto consiguiendo obtener plusvalías (beneficios de la venta de propiedad).
+    • Los directores de los departamentos pretenden siempre hacer crecer el presupuesto para su departamento para que tenga más importancia que el resto de departamentos de la empresa.
+    • Los directivos quieren hacer una buena gestión y hacer crecer la empresa para conseguir aumentar su reputación y su salario.
+    • Los empleados buscan mejorar su salario y sus condiciones laborales
+
+    • Los colectivos externos a la empresa. Cada colectivo tienen sus propios objetivos con respecto a la empresa:
+    • Los clientes querrán que la empresa cumpla con los compromisos de entrega de sus productos y que la empresa ofrezca sus productos a precios bajos
+    • Los proveedores intentarán cobrar en los plazos pactados y que la empresa cumpla con sus compromisos.
+    • Los bancos e instituciones financieras querrán que la empresa les devuelva el dinero prestado más los intereses.
+    • El Estado y las Administraciones Públicas tendrán interés en cobrarle impuestos a la empresa.
+
+1.4. FUNCIONES DE LA EMPRESA EN LA ECONOMÍA DE UNA SOCIEDAD.
+
+Las empresas son el eje principal del crecimiento económico de una sociedad como se puede ver en las siguientes funciones clave que ejerce en ella:
+
+A) Llevan a cabo ciclos de explotación.
+El ciclo de explotación consiste en el (1º) aprovisionamiento de materiales, su (2º) producción transformándo los materiales en bienes o servicios de mayor valor, su (3º) venta y su (4º) cobro, con la intervención de elementos humanos y el uso de elementos materiales e inmateriales, todo ello permitido gracias a una buena organización (revisar el apartado anterior de elementos de la empresa). 
+Destacamos dos aspectos respecto al proceso de producción:
+a) En este proceso se crea riqueza para la economía de la sociedad a través de la creación de utilidad y valor añadido:
+    • Se está creando utilidad, porque los bienes producidos son más “utiles” para satisfacer las necesidades humanas y su consumo ofrece un mayor grado de satisfacción al cliente.
+Tipos de utilidad que genera la empresa.
+    • Utilidad de forma. El servicio o producto elaborado que recibe el cliente tiene más utilidad que los materiales utilizados para su elaboración.
+    • Utilidad de lugar. Al cliente le es más útil poder conseguir el producto cerca de su entorno (hogar o trabajo). Una buena distribución del producto por parte de la empresa tiene mucho valor para el cliente.
+    • Utilidad de tiempo. Al cliente le es útil poder obtener un producto rápidamente cuando decide comprarlo. 
+      
+    • Se está creando valor añadido, porque los bienes que se han producido tienen más valor que los bienes que los materiales que se han utilizado para producirlos.
+      
+Cuanto mayor sea el valor añadido y utilidad generadas mayor será el precio que se estará dispuesto a pagar por ellos.
+
+b) Los procesos de producción tienen que llevarse a cabo con eficiencia, es decir tratando de que la contribución de cada uno de los elementos (recursos) de la empresa al logro de los objetivos sea máxima. El motivo es que los recursos son escasos y eso los convierte en caros, por lo que para reducir costes las empresas necesitan incrementar la eficiencia. Esta búsqueda ha propiciado que exista un incremento continuo de la división del trabajo y de la especialización, con el consiguiente aumento de la productividad y reducción de costes.
+
+c) Las empresa a través de los ciclos de explotación sirven de enlace entre el mercado de factores y el mercado de productos. Las empresas adquieren los recursos o factores de producción en el llamado mercado de factores, y una vez transformados en productos (bienes o servicios) de mayor valor, los distribuyen y los venden en el mercado de productos.
+
+B) Asumen riesgos.
+La empresa compra y contrata los factores productivos humanos y materiales y paga por ellos antes de elaborar los productos y venderlos. Es decir, asume el riesgo de pagar por anticipado los recursos que necesita para realizar su actividad, sin conocer cómo van a ser los resultados.
+
+C) Contribuyen al desarrollo económico y social del entorno.
+Las empresas cumplen con una importante función económica y social ya que contribuyen al incremento de la calidad de vida de su entorno social. Su contribución  se plasma en aspectos como los siguientes:
+    • Crean empleo al contratar a personas.
+    • Generan rentas a los agentes económicos: pagan sueldos a los trabajadores y rentas a los propietarios de los factores de producción que adquieren para el proceso de producción.
+    • Pagan impuestos al Estado.
+    • Realizan investigación tecnológica con la que mejoran la calidad de los productos y servicios que producen.
+
+1.5. GRANDES ÁREAS FUNCIONALES O DEPARTAMENTOS EN LOS QUE SE DIVIDE LA EMPRESA.
+
+La empresa para conseguir sus objetivos debe llevar a cabo una serie de tareas o funciones de naturalezas distintas. Estas funciones las podemos clasificar por áreas funcionales o departamentos:
+a) Área comercial. Es un conjunto de actividades que pretenden aumentar las ventas de la empresa. Para ello se llevan a cabo dos funciones de forma ordenada.
+1º Antes de producir un bien hay que hacer un estudio de mercado para estudiar las necesidades que pueden tener los consumidores hacia los que se quiere orientar el producto.
+2º Una vez producido el producto se debe hacer una política comercial adecuada para dar a conocer y hacer atractivo el producto y así aumentar las ventas.
+b) Área de producción. Es el departamento responsable de la función de transformación de una serie de inputs (los medios humanos y materiales usados) en una serie de outputs (los bienes producidos). Podemos incluir en el área de producción el área de logística, que se ocupa principalmente de dos aspectos: 1º de la recepción, almacenamiento y distribución de las materias primas, 2º del almacenamiento y distribución a los puntos de venta de los bienes producidos. Todo ello desde un punto de vista técnico.
+c) Área de inversión y financiación. Se ocupa de dos aspectos: 1º de captar y gestionar los fondos necesarios para el funcionamiento de la empresa, 2º de la administración del  uso que se le va a dar a esos fondos (las inversiones) 
+d) Área de recursos humanos. Se encarga de gestionar todos los medios humanos de la empresa: seleccionar, contratar, formar y organizar a los trabajadores, así como gestionar toda la documentación referente a ellos tales como nóminas, contratos, etc.
+
+Dos aspectos importantes a comentar sobre los departamentos de una empresa:
+    a) No todas las empresas tienen estos departamentos. Dependen de su tamaño y además pueden externalizar estas funciones (es decir, dejar que otras empresas especializadas lleven a cabo estas funciones contratando sus servicios)
+    b) Los departamentos no son independientes, necesitan relacionarse entre si para poder llevar a cabo de buena forma sus funciones. Ejemplos: 1º el departamento comercial da información al de producción de cómo debe ser el bien a producir para que cubra las necesidades del consumidor, 2º el departamento de inversión y financiación determina los medios que utilizará el departamento de producción para producir, 3º el departamento comercial a la hora de determinar el precio que tendrá el producto para ser atractivo al consumidor debe contar con el departamento de inversión y financiación para ver si es viable, 4º los departamentos informan al departamento de recursos humanos sobre que capacidades necesitan que tengan las personas que se contratan.
+
+1.6. EL EMPRESARIO ACTUAL.
+
+1.6.1. DEFINICIÓN DEL EMPRESARIO ACTUAL.
+El empresario es la persona que cumple las siguientes condiciones:
+    • Toma decisiones en la empresa para conseguir los objetivos previamente marcados.
+    • Controla todos los elementos que la forman.
+    • Actúa siempre bajo condiciones de riesgo.
+
+1.6.2. FUNCIONES DEL EMPRESARIO ACTUAL.
+Las funciones del empresario actual son las de un profesional de la dirección de la empresa:
+1º Planificar, es decir, fijar los planes y objetivos que tendrá la empresa y las estrategias y acciones que se deben llevar para conseguirlos.
+2º Organizar la empresa ideando cuál será su estructura en cuestión de los niveles de jerarquía que habrás así como las responsabilidades de cada uno de los miembros.
+3º Gestionar (o dirigir) a las personas para que realicen las tareas en función de la responsabilidad que se les han asignado.
+4º Controlar y evaluar el cumplimiento de los planes, objetivos, estrategias y acciones de la empresa para corregir las posibles desviaciones.
+
+1.7. LOS COSTES SOCIALES.
+
+Como dice la Teoría de Sistemas, la empresa es un sistema que se relaciona con un sistema más amplio que es el entorno, del mismo saca inputs y devuelve outputs. La sociedad y el medio ambiente se encuentran en ese entorno y  las empresas, especialmente las que tienen un gran tamaño, tienen un gran poder de influir sobre el entorno y de cambiar la sociedad tanto de forma positiva como negativa.
+
